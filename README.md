@@ -1,5 +1,5 @@
 # graphics2pdf
-Experimental R code that converts a collection of graphic files into a single PDF file with one graphic per page. The conversion is via LaTeX and takes place in two steps. First, a LaTeX file with the necessary code is created. Next, the PDF is created and opened. Optionally, the second step can be turned off by the user.
+Experimental R package that converts a collection of graphic files into a single PDF file with one graphic per page. The conversion is via LaTeX and takes place in two steps. First, a LaTeX file with the necessary code is created. Next, the PDF is created and opened. Optionally, the second step can be turned off by the user.
 
 # Resource
 * Video (1 minute): [Example of how to install and run](https://github.com/gsucarrat/graphics2pdf/raw/master/how-to-install-and-run.mp4)
